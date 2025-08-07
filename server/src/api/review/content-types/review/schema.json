@@ -11,16 +11,16 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Title": {
+    "title": {
       "type": "string"
     },
-    "Rating": {
+    "rating": {
       "type": "integer",
       "required": true,
       "min": 1,
       "max": 10
     },
-    "Description": {
+    "description": {
       "type": "richtext",
       "required": true
     }
